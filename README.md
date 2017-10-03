@@ -9,7 +9,12 @@ Pre Requisitos
  # 3 Ionic 
  npm install -g ionic cordova
  # 4 Gradle 3.5
- https://gradle.org/releases/
+   https://gradle.org/releases/ 
+   
+   *pasos para configurar gradle 
+   
+     https://ionicframework.com/docs/developer-resources/platform-setup/windows-setup.html 
+     https://ionicframework.com/docs/developer-resources/platform-setup/mac-setup.html 
  
  ***************************************
  # Herramienta de desarrollo
@@ -51,6 +56,11 @@ Pre Requisitos
  # *ejecutar en un dispotivo android
    ionic cordova run android --device 
  
+ 
+ ***************************************
+ # *Paso  para ejecutar los demos
+   npm install
+   
   # *Adicionales 
     Ionic=>  https://ionicframework.com  
     Angular=> https://angular.io/
